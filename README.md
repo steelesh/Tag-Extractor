@@ -10,7 +10,7 @@
 <h3>Tag Extractor menu</h3>
 <img width="500" alt="Screen Shot 2022-06-29 at 5 34 22 PM" src="https://user-images.githubusercontent.com/94927484/176549267-0d01f45c-4721-44e1-9303-7626db65aff4.png">
 
-<h3>Select '.txt' file</h3>
+<h3>Select '.txt' file to track word count</h3>
 <img width="300" alt="Screen Shot 2022-06-29 at 5 34 32 PM" src="https://user-images.githubusercontent.com/94927484/176549327-9e7bac8d-abbc-48c8-ac9f-2a5843e1299c.png">
 
 <h3>Select "noise" file (words to exclude tracking)</h3>
