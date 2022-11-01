@@ -1,5 +1,5 @@
-<img width="70px" height="70px" src="https://user-images.githubusercontent.com/94927484/176516844-ef80e3b5-849b-41d0-a824-b736f8c75f6a.png#gh-light-mode-only">
-<img width="70px" height="70px" src="https://user-images.githubusercontent.com/94927484/176516906-9ca35143-bb5b-41b1-9001-1ec77d5f065a.png#gh-dark-mode-only">
+<img width="80px" src="https://user-images.githubusercontent.com/94927484/199349092-e424c251-412c-4067-a81f-4d1e7b25f034.svg#gh-light-mode-only">
+<img width="80px" src="https://user-images.githubusercontent.com/94927484/199349307-feb7ee12-b46d-42f4-8f46-d5b56c81888d.svg#gh-dark-mode-only">
 
 <h1 align="center">IT2045C Lab 08</h1>
 <h1>TagExtractor</h1>
